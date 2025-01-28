@@ -23,7 +23,7 @@ A lightweight and efficient tool for comparing DTA files and directories to iden
 ## Table of Contents  
 
 - [Installation](#installation)  
-- [Usage](#Prerequisites)  
+- [Prerequisites](#Prerequisites)  
 
 
 ---
