@@ -36,5 +36,5 @@ A lightweight and efficient tool for comparing DTA files and directories to iden
 ## Prerequisites  
 - Python 3.7 or above  
 - Required Libraries:
--- pandas
--- numpy
+  - pandas
+  - numpy
