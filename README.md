@@ -23,10 +23,8 @@ A lightweight and efficient tool for comparing DTA files and directories to iden
 ## Table of Contents  
 
 - [Installation](#installation)  
-- [Usage](#usage)  
-- [Examples](#examples)  
-- [Contributing](#contributing)  
-- [License](#license)  
+- [Usage](#Prerequisites)  
+
 
 ---
 
@@ -35,7 +33,7 @@ A lightweight and efficient tool for comparing DTA files and directories to iden
 - for Windows run dtaComparision.bat
 - for Linux/Unix/macos run dtaComparision.sh
 
-### Prerequisites  
+## Prerequisites  
 - Python 3.7 or above  
 - Required Libraries:
 - pandas
